@@ -37,6 +37,7 @@
     <object>objects\WMinion</object>
     <object>objects\obj_energyball</object>
     <object>objects\obj_hud</object>
+    <object>objects\Obj_oblongExp</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
