@@ -7,8 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\char1</sprite>
-    <sprite>sprites\sprite1</sprite>
-    <sprite>sprites\minion</sprite>
+    <sprite>sprites\Fireball</sprite>
     <sprite>sprites\sprite4</sprite>
   </sprites>
   <backgrounds name="background">
@@ -27,6 +26,10 @@
     <object>objects\object0</object>
     <object>objects\object1</object>
     <object>objects\object2</object>
+    <object>objects\NMinion</object>
+    <object>objects\EMinion</object>
+    <object>objects\SMinion</object>
+    <object>objects\WMinion</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
