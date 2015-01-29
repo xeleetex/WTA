@@ -6,10 +6,12 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\char1</sprite>
+    <sprite>sprites\spr_char1</sprite>
+    <sprite>sprites\spr_castRight</sprite>
     <sprite>sprites\Fireball</sprite>
     <sprite>sprites\spr_energyball</sprite>
     <sprite>sprites\spr_oblong</sprite>
+    <sprite>sprites\spr_oblongExp</sprite>
     <sprite>sprites\sprite3</sprite>
   </sprites>
   <backgrounds name="background">
@@ -27,12 +29,13 @@
   <objects name="objects">
     <object>objects\object0</object>
     <object>objects\object1</object>
-    <object>objects\object2</object>
+    <object>objects\obj_oblongRoom</object>
     <object>objects\NMinion</object>
     <object>objects\EMinion</object>
     <object>objects\SMinion</object>
     <object>objects\WMinion</object>
     <object>objects\obj_energyball</object>
+    <object>objects\obj_hud</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
