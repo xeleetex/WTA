@@ -9,6 +9,7 @@
     <sprite>sprites\char1</sprite>
     <sprite>sprites\Fireball</sprite>
     <sprite>sprites\sprite4</sprite>
+    <sprite>sprites\EnergyBall</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -30,6 +31,7 @@
     <object>objects\EMinion</object>
     <object>objects\SMinion</object>
     <object>objects\WMinion</object>
+    <object>objects\obj_EnergyBall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
