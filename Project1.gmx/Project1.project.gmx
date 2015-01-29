@@ -9,6 +9,7 @@
     <sprite>sprites\char1</sprite>
     <sprite>sprites\Fireball</sprite>
     <sprite>sprites\spr_oblong</sprite>
+    <sprite>sprites\sprite3</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
