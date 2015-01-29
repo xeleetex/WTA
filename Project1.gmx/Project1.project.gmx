@@ -8,7 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\char1</sprite>
     <sprite>sprites\Fireball</sprite>
-    <sprite>sprites\sprite4</sprite>
+    <sprite>sprites\spr_oblong</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
