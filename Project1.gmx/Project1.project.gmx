@@ -11,9 +11,11 @@
     <sprite>sprites\spr_energyball</sprite>
     <sprite>sprites\spr_oblong</sprite>
     <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\sprite5</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\background1</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -33,9 +35,11 @@
     <object>objects\SMinion</object>
     <object>objects\WMinion</object>
     <object>objects\obj_energyball</object>
+    <object>objects\object8</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
