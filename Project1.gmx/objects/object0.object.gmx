@@ -489,7 +489,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_EnergyBall</object>
+            <object>obj_energyball</object>
           </argument>
           <argument>
             <kind>0</kind>

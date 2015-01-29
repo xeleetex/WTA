@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\char1</sprite>
     <sprite>sprites\Fireball</sprite>
+    <sprite>sprites\spr_energyball</sprite>
     <sprite>sprites\spr_oblong</sprite>
     <sprite>sprites\sprite3</sprite>
   </sprites>
@@ -31,6 +32,7 @@
     <object>objects\EMinion</object>
     <object>objects\SMinion</object>
     <object>objects\WMinion</object>
+    <object>objects\obj_energyball</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
