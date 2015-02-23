@@ -12,7 +12,6 @@
     <sprite>sprites\spr_energyball</sprite>
     <sprite>sprites\spr_oblong</sprite>
     <sprite>sprites\spr_oblongExp</sprite>
-    <sprite>sprites\sprite3</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
